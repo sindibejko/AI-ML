@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 This project uses the '**rotten_tomatoes**' dataset, which consists of
 movie reviews, by directly uploading it from HuggingFace.
 
